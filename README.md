@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @oshabitatstech
+- 👋 Hi, I’m @habitats-tech
 - 👀 I’m interested and specialise in Smart Habitats & Home Assistant
 - 🌱 but I also cover the Audiovisual, Domotics, Energy, Informatics and Security industries 
 - 💞️ I’m looking to collaborate with anyone who shares the same interests

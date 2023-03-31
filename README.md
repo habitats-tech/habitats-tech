@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @habitats-tech
-- 👀 I’m interested and specialise in Smart Habitats & Home Assistant
-- 🌱 but I also cover the Audiovisual, Domotics, Energy, Informatics and Security industries 
-- 💞️ I’m looking to collaborate with anyone who shares the same interests
-- 📫 Feel free to reach me @ os.habitats.tech@outlook.com
+- 👀 I have a passion for all tech and especially Smart Habitats
+- 💡 visit my newsletter https://buttondown.email/habitats-tech and engage if you share the same interests
 
 <!---
 oshabitatstech/oshabitatstech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
